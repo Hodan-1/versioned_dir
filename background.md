@@ -1,3 +1,3 @@
-New file to use on git
+New file to use on git.
 
-pulling this filee onto remote repository
+Pulling this file onto remote repository.
